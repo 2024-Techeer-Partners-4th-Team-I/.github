@@ -1,6 +1,6 @@
-# 2024 Techeer Partners 4th Team I
+<h1 align="center">2024 Techeer Partners 4th Team I</h1>
 
-백엔드 개발을 공부하고 있는 Techeer Partners 4기의 I팀입니다. 우리 팀은 주로 Spring Boot를 중점적으로 다루고 있습니다.
+<p align="center">백엔드 개발을 공부하고 있는 Techeer Partners 4기의 I팀입니다. 우리 팀은 주로 Spring Boot를 중점적으로 다루고 있습니다.</p>
 
 <br/>
 
