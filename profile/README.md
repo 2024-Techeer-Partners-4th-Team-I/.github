@@ -30,3 +30,7 @@
 #### 📌 임익재 (Team Leader) <br/>
 #### 📌 조진우 <br/>
 #### 📌 최종민 <br/>
+
+## <img src="https://github.com/2024-Techeer-Partners-4th-Team-I/.github/assets/133188752/d54f2649-ce28-45a9-aa25-a0122f5584f1" width="24" height="24" />  Notion
+
+[Team I Notion Page](https://www.notion.so/Team-I-917fba764a6b4a3cb3e74c7492c78664?pvs=21)
