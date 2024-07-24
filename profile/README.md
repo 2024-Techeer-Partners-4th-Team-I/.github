@@ -22,13 +22,17 @@
 
 <br/>
 
+## 🕰️ 활동 기간
+
+2024.03.16 ~ 2024.06.22
+
 ## 🌱 팀원
 
 #### 📌 김민서 <br/>
 #### 📌 김민지 <br/>
 #### 📌 김영준 <br/>
-#### 📌 임익재 (Team Leader) <br/>
-#### 📌 조진우 <br/>
+#### 📌 임익재 <br/>
+#### 📌 조진우 (Team Leader)<br/>
 #### 📌 최종민 <br/>
 
 ## <img src="https://github.com/2024-Techeer-Partners-4th-Team-I/.github/assets/133188752/d54f2649-ce28-45a9-aa25-a0122f5584f1" width="24" height="24" />  Notion
